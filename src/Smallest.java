@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SmallestNumberExample1
+public class Smallest
 {
     public static void main(String[] args)
     {
